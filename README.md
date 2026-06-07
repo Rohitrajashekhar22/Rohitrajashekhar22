@@ -15,4 +15,11 @@ Hi, I'm Rohit 👋<br><br>I'm a Computer Science student passionate about Full-S
 ---
 [![](https://komarev.com/ghpvc/?username=Rohitrajashekhar22&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
