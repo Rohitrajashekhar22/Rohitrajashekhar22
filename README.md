@@ -18,7 +18,7 @@ Hi, I'm Rohit 👋<br><br>I'm a Computer Science student passionate about Full-S
 
 
 
-### ✍️ Random Dev Quote
+### Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
